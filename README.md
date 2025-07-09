@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @hardikSrivastav
-- 👀 I’m interested in Data Science, Economics, Politics and Law
-- 🌱 I’m currently learning Machine Learning
+Building ceneca.ai
 
-<!---
-hardikSrivastav/hardikSrivastav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+why is my commmit history so sparse?
+
+im signed in thru my burner account, and use the real account for commits, so it doesn't show up in my history. check actual repo commits to understand if and how cracked i am.
+
+Join the waitlist at ceneca.ai/waitlist
